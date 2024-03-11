@@ -1,0 +1,3 @@
+"Predicting Rainfall Tomorrow": Utilizing historical weather data, including minimum and maximum temperatures, rainfall, evaporation, sunshine duration, wind speed and direction, humidity, air pressure, cloud cover, and other relevant factors, develop a predictive model to forecast whether it will rain tomorrow. 
+I have run 8 algortithms on this model logistic regression, decision tre classifier, decision tree with pre prunning, AdaBoost Classifier, GradientBoosting Classifier, RandomForest Classifier, XgBoost Classifier and Bagging Classifier.
+Ihave got almost good results on all the algorithms but the most good results I got in XgBoost with 95% on all the accuracy, precision, recall and F1 curve on both train and test sets.
